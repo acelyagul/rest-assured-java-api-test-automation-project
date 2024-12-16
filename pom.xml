@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://www.maven.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.api.testing</groupId>
-    <artifactId>rest-assured-java-api-automation-project</artifactId>
+    <artifactId>rest-assured-java-api-test-automation-project</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
